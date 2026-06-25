@@ -1,0 +1,4 @@
+/redirector
+*.exe
+*.test
+vendor/
