@@ -1,6 +1,7 @@
 module github.com/whywaita/redirector
 
 go 1.26.3
+toolchain go1.27.3
 
 require github.com/prometheus/client_golang v1.23.2
 
